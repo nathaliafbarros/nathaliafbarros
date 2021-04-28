@@ -3,11 +3,10 @@
 ---------
 ### Oi, eu sou Nathália 🦊 
 
-Sou uma Dev Backend em desenvolvimento que logo de cara se apaixonou pelo Java.
+Sou uma Dev Backend em desenvolvimento.
 
 Não vivo sem meus pets 🐾 e minhas plantas 🌱.
 
-Morei toda minha vida na cidade do Rio de Janeiro, mas aos 35 anos de vida resolvi me mudar para Angra dos Reis buscando qualidade de vida (leia-se: cheiro de terra molhada e brisa do mar)
 
 GitHub Stats
 ---
