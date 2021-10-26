@@ -6,6 +6,15 @@
 - Em outubro de 2021 comecei a trilha Node.js do curso da Rocketseat.
 - Não vivo sem meus pets 🐾 e minhas plantas 🌱.
 
+<table align="left">
+ <tr><td><a href="README.md">README English</a></td></tr>
+ <tr><td><a href="readme_pt-br.md">README Português</a></td></tr>
+</table>
+
+<br />
+<br />
+<br />
+
 
 GitHub Stats
 ---
