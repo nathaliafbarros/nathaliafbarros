@@ -1,14 +1,13 @@
 ---------
-## Oi, eu sou Nathália 🦊 
+## Hi, I'm Nathália 🦊 
 
-- Sou uma Dev Backend em desenvolvimento.
-- Estudo Sistemas de Informação na Estácio de Sá e estou no 2º período(previsão de formatura em dezembro/2024)
-- Em outubro de 2021 comecei a trilha Node.js do curso da Rocketseat.
-- Não vivo sem meus pets 🐾 e minhas plantas 🌱.
+- I'm a Dev Backend in progress.
+- I study Information Systems at Estácio de Sá and I'm in the 2nd period (provision for graduation in December/2024)
+- In October 2021 I started the trail Node.js of the Rocketseat course.
+- I don't live without my pets 🐾 and my plants 🌱.
 
 <table align="left">
- <tr><td><a href="README.md">README English</a></td></tr>
- <tr><td><a href="README-pt-br.md">README Português</a></td></tr>
+ <tr><td><a href="README-pt-br.md">README in Portuguese</a></td></tr>
 </table>
 
 <br />
@@ -31,11 +30,11 @@ Tech Skills
 <img src="https://img.shields.io/badge/NodeJS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
 
-Siga-me 
+Follow me 
 ---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nathaliafbarros)](https://github.com/nathaliafbarros)
 [![Linkedin Badge](https://img.shields.io/badge/-nathaliafbarros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaliafbarros/)](https://www.linkedin.com/in/nathaliafbarros/)
-[![Meu perfil Rocketseat](https://img.shields.io/badge/-Perfil%20Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/nathaliafbarros)
+[![Meu perfil Rocketseat](https://img.shields.io/badge/-profile%20Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/nathaliafbarros)
 
 
 
