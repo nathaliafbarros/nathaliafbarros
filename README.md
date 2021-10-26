@@ -1,11 +1,12 @@
 ![8313f67d2546e50652d4e31f74a1a789](https://user-images.githubusercontent.com/78379515/109372543-e3f06500-7888-11eb-9102-8f8a6830453b.png)
 
 ---------
-### Oi, eu sou Nathália 🦊 
+## Oi, eu sou Nathália 🦊 
 
-Sou uma Dev Backend em desenvolvimento.
-
-Não vivo sem meus pets 🐾 e minhas plantas 🌱.
+- Sou uma Dev Backend em desenvolvimento.
+- Estudo Sistemas de Informação na Estácio de Sá e estou no 2º período(previsão de formatura em dezembro/2024)
+- Em outubro de 2021 comecei a trilha Node.js do curso da Rocketseat.
+- Não vivo sem meus pets 🐾 e minhas plantas 🌱.
 
 
 GitHub Stats
