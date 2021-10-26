@@ -8,7 +8,7 @@
 
 <table align="left">
  <tr><td><a href="README.md">README English</a></td></tr>
- <tr><td><a href="readme_pt-br.md">README Português</a></td></tr>
+ <tr><td><a href="README-pt-br.md">README Português</a></td></tr>
 </table>
 
 <br />
