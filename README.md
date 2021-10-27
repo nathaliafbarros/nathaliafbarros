@@ -1,5 +1,4 @@
----------
-## Hi, I'm Nathália 🦊 
+## Hi, I'm Nathália - the Red-haired <img src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="100" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 - I'm a Dev Backend in progress.
 - I study Information Systems at Estácio de Sá and I'm in the 2nd period (provision for graduation in December/2024)
