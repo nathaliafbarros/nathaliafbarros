@@ -3,7 +3,7 @@
 
 - I'm a Dev Backend in progress.
 - I study Information Systems at Estácio de Sá and I'm in the 2nd period (provision for graduation in December/2024)
-- In October 2021 I started the trail Node.js of the Rocketseat course.
+- In October 2021 I started the trail Node.js of the Rocketseat :rocket: course.
 - I don't live without my pets 🐾 and my plants 🌱.
 
 <table align="left">
