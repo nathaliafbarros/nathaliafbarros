@@ -1,5 +1,4 @@
----------
-## Oi, eu sou Nathália 🦊 
+## Oi, eu sou Nathália <img src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="100" class="giphy-embed" allowFullScreen> 
 
 - Sou uma Dev Backend em desenvolvimento.
 - Estudo Sistemas de Informação na Estácio de Sá e estou no 2º período(previsão de formatura em dezembro/2024)
