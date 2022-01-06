@@ -1,7 +1,7 @@
 ## Hi, I'm Nathália <img src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="100" class="giphy-embed" allowFullScreen>
 
 - I'm a Dev Backend in progress.
-- I study Information Systems at Estácio de Sá and I'm in the 2nd period (provision for graduation in December/2024)
+- I study Information Systems at Estácio de Sá and I'm in the 3nd period (provision for graduation in December/2024)
 - In October 2021 I started the trail Node.js of the Rocketseat :rocket: course.
 - I don't live without my pets 🐾 and my plants 🌱.
 
